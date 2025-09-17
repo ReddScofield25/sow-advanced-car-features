@@ -18,7 +18,7 @@ The purpose of this project was not to deliver business results, but to gain han
 
 ## 📁 Files in This Repository  
 - 'scope_of_work_advance_car_features.docx'
-- Full Scope of Work (SOW) document: [View on Google Docs](https://docs.google.com/document/d/1fLueR9UkjFfH1R_Qg8a0zIT6BnWEfSDs4X--TlgLfL4/edit?usp=sharing)  
+- View on Google Docs(https://docs.google.com/document/d/1fLueR9UkjFfH1R_Qg8a0zIT6BnWEfSDs4X--TlgLfL4/edit?usp=sharing)  
 
 ---
 
@@ -31,4 +31,5 @@ The purpose of this project was not to deliver business results, but to gain han
 
 ## 🔗 About This Project  
 This self-designed, imaginary project was created exclusively to practice SOW development. The emphasis was on learning how to document a project clearly—so that analysts, engineers, managers, and stakeholders can operate with a shared understanding and execute effectively.
+
 

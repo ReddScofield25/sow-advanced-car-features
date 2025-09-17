@@ -30,4 +30,5 @@ The purpose of this project was not to deliver business results, but to gain han
 ---
 
 ## 🔗 About This Project  
-This was a self-designed, imaginary project created solely to practice developing an SOW. The focus was on learning how to document a project clearly so that analysts, engineers, managers, and stakeholders can share the same understanding and carry out the work effectively.
+This self-designed, imaginary project was created exclusively to practice SOW development. The emphasis was on learning how to document a project clearly—so that analysts, engineers, managers, and stakeholders can operate with a shared understanding and execute effectively.
+
